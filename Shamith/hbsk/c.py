@@ -15,7 +15,7 @@ from iec62056_21 import messages, constants, transports, exceptions
 
 HOST =  'shamith'   #'172.17.0.2'
 
-PORT = 8081
+PORT = 
 
 address = (HOST, PORT)  
 
